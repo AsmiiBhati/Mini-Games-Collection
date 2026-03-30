@@ -5,6 +5,8 @@ A console-based mini games project written in C as part of my learning journey.
 This repository contains a few basic games combined into a single menu-driven program.  
 The focus of this project is on practicing core programming concepts.
 
+---
+
 ## 📌 Features
 The program includes:
 
@@ -24,7 +26,9 @@ The program includes:
   - Word guessing with hints  
   - Limited attempts  
 
-- 📋 Menu-driven interface to select and play games  
+- 📋 Menu-driven interface to select and play games
+
+---
 
 ## ⚙️ How to Run
 Make sure you have a C compiler like GCC installed.
@@ -34,6 +38,8 @@ gcc game_collection.c -o games
 **On Linux / Mac:** ./games <br>
 **On Windows:** games.exe
 
+---
+
 ## 🧠 Learning Outcomes
 
 This project helped me understand and practice:
@@ -42,6 +48,7 @@ This project helped me understand and practice:
 - Control flow (loops, conditionals)  
 - Random number generation using `rand()`  
 - Basic game logic implementation  
-- Building menu-driven programs    
+- Building menu-driven programs
+---
 
 👩‍💻 Project by: Asmii Bhati
